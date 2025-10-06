@@ -1,7 +1,7 @@
 # synthval 🔬
 
 **Author:** Isaac Gbene  
-**Affiliation:** PhD Student, South Dakota State University  
+**Affiliation:** PhD Student(Data Science/Statistics), South Dakota State University  
 **Email:** Isaac.Gbene@jacks.sdstate.edu  
 **GitHub:** [GbeneIsaac](https://github.com/GbeneIsaac)
 
