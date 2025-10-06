@@ -25,6 +25,45 @@ utils/	Preprocessing, discretization, and helper utilities
 ✅ Command-line + Jupyter notebook interfaces
 ✅ Ready for publication (citable + open source)
 
+
+synthval/
+├── __init__.py
+├── sampling/
+│   ├── forward.py
+│   ├── gibbs.py
+│   ├── metropolis.py
+│   ├── gibbs_within_mh.py
+│   └── __init__.py
+├── deepmodels/
+│   ├── ctgan.py
+│   ├── tvae.py
+│   └── __init__.py
+├── evaluation/
+│   ├── jsd.py
+│   ├── mutual_info.py
+│   ├── tstr_trtr.py
+│   ├── predictive_utils.py
+│   └── __init__.py
+├── datasets/
+│   ├── heart.py
+│   ├── breast_cancer.py
+│   └── __init__.py
+├── visualization/
+│   ├── pmf_plot.py
+│   ├── roc_plot.py
+│   ├── heatmap.py
+│   └── __init__.py
+├── reporting/
+│   ├── academic_report.py
+│   ├── __init__.py
+│   └── templates/
+│       ├── synthval_report_template.tex
+│       └── synthval_theme.css
+└── utils/
+    ├── preprocessing.py
+    ├── metrics.py
+    └── __init__.py
+
 📘 License
 
 MIT License
